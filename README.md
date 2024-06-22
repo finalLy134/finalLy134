@@ -6,8 +6,6 @@
 - ❤️ I love writing at Lua, making UI and building fun projects on FiveM
 - 💬 How to reach me: notfinally (Discord)
 
-## GitHub Stats and Top Languages
-
 ### GitHub Stats
 
 [![finalLy134's GitHub stats](https://github-readme-stats.vercel.app/api?username=finalLy134)](https://github.com/finalLy134)
