@@ -2,8 +2,8 @@
 
 ### About me
 
-- 🔭 I’m currently working on FiveM Scripts
-- ❤️ I love writing at Lua, making UI and building fun projects on FiveM
+- 🔭 I’m currently working on FiveM Scripts & Minecraft Plugins
+- ❤️ I love writing at Lua and Java, making UI and building fun projects on FiveM & Minecraft
 - 💬 How to reach me: notfinally (Discord)
 
 [![finalLy134's GitHub stats](https://github-readme-stats.vercel.app/api?username=finalLy134)](https://github.com/finalLy134)
