@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am Amitai Dvora
+I am Amitai Dvora, or finalLy - You decide
 
 ### About me
 
