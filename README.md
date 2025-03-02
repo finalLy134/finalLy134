@@ -4,7 +4,7 @@ I am Amitai Dvora, or finalLy - You decide
 ### About me
 
 - 🔭 I’m currently working on FiveM Scripts & Minecraft Plugins
-- ❤️ I love writing at Lua and Java, making UI and building fun projects on FiveM & Minecraft
+- ❤️ I love coding in Lua and Java, making UI and building fun projects on FiveM & Minecraft
 - 💬 How to reach me: notfinally (Discord)
 
 [Latest Release](https://www.spigotmc.org/resources/flcombatlog.118428/)
